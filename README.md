@@ -8,11 +8,15 @@
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/-Django-092D40?logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
-- 🧠 My ability to think critically, and learn and adapt quickly always makes me an outstanding candidate as a software developer. This adds to the extensive knowledge, skill and talent which I have in software development, an activity I find nothing but fun because of a series of problem solving tasks.
-- 💻 I’m interested in a couple of tech related fields but I mainly focus on web and mobile development with a lot more experience in web than in mobile.
-  I'm that kind of guy who reads about current trends in technology and explores them so as to stay updated in this ever evolving tech landscape. I do not end there. I love to narrate stories about these trends to others to create awareness and have more people become tech enthusiasts.
-- 🎯 I’m looking to collaborate on SaaS and Enterprise projects among others.
-- 📫 Contact Me: joel8tnz@gmail.com - I'm always open to new opportunities.
+
+- 🧠 My ability to think critically, and learn and adapt quickly always makes me an outstanding candidate as a software developer. This adds to the extensive knowledge, skill and talent which I have in software development, an activity I find nothing but fun because I enjoy problem solving.
+  
+- 💻 I’m interested in a couple of tech related fields but I mainly focus on web and mobile development.
+  
+  I'm that kind of guy who reads about current trends in technology and explores them so as to stay updated in this ever evolving tech landscape. I do not end there. I love to talk about these trends with others to create awareness and have more people join the field.
+  
+- 🎯 I’m looking to collaborate on SaaS and Enterprise projects among others. I'm always open to new opportunities.
+  
 - ⚡ Fun fact: I recommend coding, math and physics to people struggling with depression.
 <!---
 joel-olupot/joel-olupot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
